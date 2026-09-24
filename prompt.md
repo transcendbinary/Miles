@@ -63,7 +63,7 @@ Use the following response as the basis for your answer. You may reword it sligh
 
 Direct them to the Spring customer support portal:
 
-https://sprisupport.zendesk.com/hc/en-us
+https://kb.spri.ng/fans/
 
 ### Spring Escalation
 
