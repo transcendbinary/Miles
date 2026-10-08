@@ -1,5 +1,4 @@
 # Miles is our Support Chatbot
-###### Note: Knowledge is temporarily disabled
 
 it isnt replacing our normal direct contact methods. you will ALWAYS be able to email/message us directly and get a real, human response. this is just an additional option for those who prefer it. 
 
@@ -7,4 +6,6 @@ Miles can answer questions about our legal pages, shipping/refund policies, Any 
 
 Miles will ALWAYS remain a seperate window and you will never see a Pop-Up chat window on our website. 
 
-n the Interest of transparency, Our System prompt and knowledge base is publicly available here.
+In the Interest of transparency, Our System prompt and knowledge base[^1] is publicly available here.
+
+[^1]: Note: Knowledge is temporarily disabled
