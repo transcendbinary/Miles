@@ -1,4 +1,5 @@
 # Miles is our Support Chatbot
+###### Note: Knowledge is temporarily disabled
 
 it isnt replacing our normal direct contact methods. you will ALWAYS be able to email/message us directly and get a real, human response. this is just an additional option for those who prefer it. 
 
